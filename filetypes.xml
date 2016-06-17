@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <removed_mapping ext="config" approved="true" type="Erlang Terms" />
       <mapping ext="ods" type="Native" />
       <mapping ext="ots" type="Native" />
       <mapping pattern="test" type="PLAIN_TEXT" />
