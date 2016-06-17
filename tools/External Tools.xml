@@ -1,0 +1,16 @@
+<toolSet name="External Tools">
+  <tool name="gulp-build-production" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="true" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="gulp" />
+      <option name="PARAMETERS" value="build --type production" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/projects/storie/storie-web-guice" />
+    </exec>
+  </tool>
+  <tool name="gulp-build-development" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="gulp" />
+      <option name="PARAMETERS" value="build" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/projects/storie/storie-web-guice" />
+    </exec>
+  </tool>
+</toolSet>

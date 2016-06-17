@@ -1,0 +1,7 @@
+<application>
+  <component name="RemoteServers">
+    <remote-server name="Storie Google App Engine" type="google-app-engine">
+      <configuration oauth2="true" />
+    </remote-server>
+  </component>
+</application>
