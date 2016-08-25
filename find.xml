@@ -3,6 +3,7 @@
     <option name="customScope" value="Module 'infobip-customer-portal-common-module'" />
     <option name="defaultScopeName" value="Module 'infobip-customer-portal-common-module'" />
     <option name="SEARCH_SCOPE" value="Module 'infobip-customer-portal-common-module'" />
+    <option name="FILE_MASK" value="package.json" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -15,10 +16,10 @@
       <mask>*.scss</mask>
       <mask>*.react.js</mask>
       <mask>*.ftl</mask>
-      <mask>package.json</mask>
       <mask>config.json</mask>
       <mask>pom.xml</mask>
       <mask>*.js</mask>
+      <mask>package.json</mask>
     </recentFileMasks>
   </component>
 </application>
